@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 lab/
+books/
 .Python
 build/
 develop-eggs/
