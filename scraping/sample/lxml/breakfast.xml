@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast_menu>
+  <food>
+    <name>Brown Toast-Honey</name>
+    <price>2.99</price>
+    <description>All time famous, honey and toast combination.</description>
+  </food>
+  <food>
+    <name>Oat-Pancake</name>
+    <price>4.95</price>
+    <description>Delicious pancake, with cheese and berry on top.</description>
+  </food>
+  <food>
+    <name>Creamy Yoghurt</name>
+    <price>3.99</price>
+    <description>Dried nut filled yoghurt, thick and creamy.</description>
+  </food>  
+</breakfast_menu>
