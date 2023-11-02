@@ -1,0 +1,5 @@
+#
+#
+# Scope of work:
+# - ensure that the starting state of the program includes some box types of
+# various dimensions

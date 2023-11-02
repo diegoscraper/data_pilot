@@ -1,0 +1,11 @@
+#
+#
+# Scope of work:
+# - complete the implementation for Choice 2, displaying a list of box types and
+# their dimensions
+
+# - ideally, the displayed list should show different column labels than what we
+# store in the database, e.g. "Height" instead of "x", "Width" rather than "y",
+# and so on
+
+

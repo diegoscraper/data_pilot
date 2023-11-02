@@ -1,0 +1,12 @@
+#
+#
+# Scope of work:
+# - convert the data model from the previous lecture to a DDL script
+
+# - add a database-level contstraint to ensure that box volume does
+# not exceed 10
+
+# - when the program starts, create a SQLite database and execute
+# the DDL
+
+

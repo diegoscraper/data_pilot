@@ -1,0 +1,8 @@
+#
+#
+# Scope of work:
+# - complete the implementation for Choice 4
+
+# - this should display the containers and their occupied volume, essentially the view
+# we defined earlier
+

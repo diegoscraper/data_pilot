@@ -1,0 +1,11 @@
+#
+#
+# Scope of work:
+# - factor out the following constants into a separate database table called
+# app_config
+
+# - MAX_CONTAINER_STORAGE -> 30
+# - COST_PER_CONTAINER -> 200
+# - CUBIC_METRE_CHARGEOUT -> 40
+
+# - update the rest of the application to use the database-stored configuration

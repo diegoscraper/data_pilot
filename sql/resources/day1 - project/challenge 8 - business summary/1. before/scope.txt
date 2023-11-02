@@ -1,0 +1,10 @@
+#
+#
+# Scope of work:
+# - complete the implementation for Choice 5
+
+# - this option should show some business summary statistics for the Freight Company,
+#  including the expected profit and loss from the contracted freight
+
+# - assume that the business charges customers $40 per unit of volume (m3) and pays
+# $200 per container

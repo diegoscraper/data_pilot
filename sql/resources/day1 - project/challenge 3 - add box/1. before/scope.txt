@@ -1,0 +1,9 @@
+#
+#
+# Scope of work:
+# - write the db helper to add the box to the database
+
+# - replace the corresponding menu item and confirm users are able to
+# insert valid boxes
+
+

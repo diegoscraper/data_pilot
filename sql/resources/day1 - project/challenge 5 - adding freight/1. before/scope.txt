@@ -1,0 +1,18 @@
+#
+#
+# Scope of work:
+# - complete the implementation for Choice 3
+#
+# - the user should specify a box by name (not by id)
+#
+# - the program should confirm that such a box exists
+#
+# - if it does, the user should specify a container id
+#
+# - the program should ensure that a container does not store more than 30 units
+# of volume (e.g. cubic meters)
+#
+# - if any of the "happy path" conditions are not met, the user is notified of
+# the problem with a descriptive message, after which the program returns to
+# the main menu
+
