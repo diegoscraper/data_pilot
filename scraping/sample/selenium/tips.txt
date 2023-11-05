@@ -1,0 +1,3 @@
+Receiving, updating, and setting cookie-related values is quite common to bypass
+some security features. Using selenium to obtain cookie values and process them is
+one of the major tasks from the web-scraping perspective.
